@@ -1,0 +1,29 @@
+.NavbarContainer{
+/* POSIZIONE */
+display: flex;
+position: fixed;
+width: 100vw;
+top: 0;
+left: 0;
+
+/* COLOR */
+
+}
+
+.NavUl{
+/* POSIZIONE */
+display: flex;
+
+/* TXT-STYLE */
+text-wrap: nowrap;
+
+
+
+}
+
+.Navli{
+/* TXT-STYLE */
+font-size: x-large;
+
+}
+
